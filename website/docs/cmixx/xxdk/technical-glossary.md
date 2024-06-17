@@ -28,7 +28,7 @@ See **[Session](#session-also-client-session)**
 
 ### **Client Command-Line Interface (CLI)**
 
-The Client CLI is a command-line tool intended for testing xx network functionality. It can send and receive messages and authenticated channel requests. For instructions on how to set it up, see [*Set Up the Client Locally*](./getting-started.md/#set-up-the-client-locally).
+The Client CLI is a command-line tool intended for testing xx network functionality. It can send and receive messages and authenticated channel requests.
 
 ## G
 

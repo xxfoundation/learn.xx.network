@@ -4,7 +4,7 @@
 (E2EE)](https://en.wikipedia.org/wiki/End-to-end_encryption) messaging
 is a way to securely and privately communicate with connections—only the
 sender and receiver can read the contents of their messages. While
-[cMixx](../overview/cmix) protects your metadata (the who, what,
+[cMixx](../cmixx) protects your metadata (the who, what,
 when, and where of your communications), the E2EE between clients on the
 xx Network provides the additional guarantee that no third party can
 decipher data that is processed and stored. End-to-end encryption keeps

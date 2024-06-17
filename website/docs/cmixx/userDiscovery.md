@@ -24,7 +24,7 @@ During the xx Messenger app installation process, users select a unique
 username that is registered in UD. This registration is completed
 securely via
 [TCP/IP](https://en.wikipedia.org/wiki/Internet_protocol_suite) rather
-than [cMixx](../overview/cmix).
+than [cMixx](../cmixx).
 
 After registering their username, xx Messenger generates cryptographic
 information that will be used to identify the user uniquely. This
@@ -64,7 +64,7 @@ xx Messenger allows users to easily find their connections by searching
 for their username, email, or phone number. When a user fills in search
 criteria, xx Messenger first salts and hashes the data and then sends it
 over the [anonymous data retrieval
-protocol](adrp), which utilizes [cMixx](../overview/cmix) and a unique, on-the-fly negotiation
+protocol](adrp), which utilizes [cMixx](../cmixx) and a unique, on-the-fly negotiation
 format request to search for the user without ever revealing who is
 searching or who is being searched. When received, the User Discovery
 server searches for the salted hash in its database. If a match is

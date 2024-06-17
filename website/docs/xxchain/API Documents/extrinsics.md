@@ -553,13 +553,8 @@ ___
  
 ### transferKeepAlive(dest: `MultiAddress`, value: `Compact<u128>`)
 - **interface**: `api.tx.balances.transferKeepAlive`
-- **summary**:    Same as the [`transfer`] call, but with a check that the transfer will not kill the  origin account. 
+- **summary**:    Same as the `transfer` call, but with a check that the transfer will not kill the  origin account. 
 
-   99% of the time you want [`transfer`] instead. 
-
-   [`transfer`]: struct.Pallet.html#method.transfer   
-
-___
 
 
 ## bounties
