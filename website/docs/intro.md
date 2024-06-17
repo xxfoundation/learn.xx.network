@@ -5,7 +5,7 @@ slug: /
 
 # xx network Documentation
 
-This documentation aims to help understand the core concepts of xx network, its blockchain (xxChain) and its communication layer (cMixx). You will also find documentation covering advanced topics, end-user tools, use-cases and tutorials.
+This documentation aims to help understand the core concepts of xx network, its blockchain ([xxChain](xxchain/)) and its communication layer ([cMixx](cmixx/)). You will also find documentation covering advanced topics, end-user tools, use-cases and tutorials.
 
 As an open-source project, suggesting new topics, adding new content, and providing corrections are welcome. All documentation can be edited via GitLab. If you're unsure how, follow these instructions (TODO).
 

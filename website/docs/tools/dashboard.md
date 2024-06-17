@@ -1,4 +1,4 @@
-# About
+# cMixx Dashboard
 
 # [Quick View](https://dashboard.xx.network/)
 The above link will bring you to cMix Dashboard Quick View.

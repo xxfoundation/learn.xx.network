@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Governance
 The xx Network uses stake-based governance based upon the standard
 governance within the Substrate Ecosystem.
