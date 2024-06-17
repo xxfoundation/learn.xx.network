@@ -11,7 +11,7 @@ As an open-source project, suggesting new topics, adding new content, and provid
 
 # Getting started
 
-If you are unfamiliar with the xx network we recommend reviewing ...
+If you are unfamiliar with the xx network start with the  ...
 
  * [Intro to xx network](overview/xxnetwork.md) - An overview of the xx network
 
