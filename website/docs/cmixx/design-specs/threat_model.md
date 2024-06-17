@@ -1,5 +1,5 @@
 
-# Elixxir Mix Network Threat Model
+# cMixx Network Threat Model
 
 Benjamin Wenger  
 Richard T. Carback III  

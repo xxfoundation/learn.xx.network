@@ -1,4 +1,4 @@
-## XX Network Gateway Mixing
+# Gateway Mixing
 
 Benjamin Wenger  
 Richard T. Carback III  

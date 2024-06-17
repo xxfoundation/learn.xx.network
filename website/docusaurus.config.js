@@ -37,15 +37,15 @@ const config = {
   presets: [
     [
       'classic',
-      /** @type {import('@docusaurus/preset-classic').Options} */
+      /** @type {import('@docusaurus/preset-classic').Options} **/
       ({
         docs: {
           routeBasePath: '/',
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://git.xx.network/xx_network/node-handbook/-/blob/master/website/',
+          //editUrl:
+            //'https://git.xx.network/xx_network/node-handbook/-/blob/master/website/',
         },
         blog:false,
         /*blog: {

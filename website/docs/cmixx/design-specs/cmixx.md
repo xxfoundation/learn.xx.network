@@ -1,4 +1,4 @@
-# The xx network cMix Design Specification
+# cMixx Design Specification
 
 Benjamin Wenger  
 Richard T. Carback III  

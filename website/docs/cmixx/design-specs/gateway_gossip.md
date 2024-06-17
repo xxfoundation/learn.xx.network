@@ -1,4 +1,4 @@
-# The xx network Gateway Gossip Protocol
+# Gateway Gossip Protocol
 
 Benjamin Wenger  
 Richard T. Carback III  

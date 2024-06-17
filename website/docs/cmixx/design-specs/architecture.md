@@ -1,5 +1,5 @@
 
-# Elixxir Mixnet Architectural Overview
+# Architectural Overview
 
 Benjamin Wenger  
 Richard T. Carback III  

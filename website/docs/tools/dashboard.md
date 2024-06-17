@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # cMixx Dashboard
 
 # [Quick View](https://dashboard.xx.network/)

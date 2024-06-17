@@ -1,5 +1,5 @@
 
-# The xx network End To End Cryptographic Protocol
+# End To End Cryptographic Protocol
 
 Benjamin Wenger  
 Richard T. Carback III  
@@ -214,7 +214,7 @@ the following common nested structures:
 
 * cMix Message: This message is the outer most protocol message and is
   responsible for routing the message through the network in such a manner
-  as to leak very little metadata. See our [cMix section](cmix.md) for
+  as to leak very little metadata. See our [cMix section](cmixx.md) for
   a detailed discussion. Suffice it to say here we note that this message
   encapsulates an encrypted Payload field.
 
@@ -395,7 +395,7 @@ makes use of a stream cipher and MAC:
 ```
 In the future we'd like to replace this with an AEAD. The Encrypt
 also sets the message fingerprint field of the cMix message. Please
-see our [cMix design document](cmix.md) for more detailed information
+see our [cMix design document](cmixx.md) for more detailed information
 about the cMix message format.
 
 

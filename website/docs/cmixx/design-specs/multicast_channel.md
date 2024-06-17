@@ -1,4 +1,4 @@
-# The xx Network Multicast Channel Design
+# Multicast Channel Design
 
 Benjamin Wenger  
 Richard T. Carback III  
@@ -169,7 +169,7 @@ key reuse; under the assumption that at least one of the message senders
 is honest.
 
 The `nonce` is stored in the cMix `Fingerprint` field. Note that this is
-the `nonce` and NOT the `computed_nonce`. See our [cmix design doc](cmix.md)
+the `nonce` and NOT the `computed_nonce`. See our [cmix design doc](cmixx.md)
 for details about the cMix message format.
 
 ### Message Encapsulation
@@ -210,7 +210,7 @@ The collision resistance of the hash guarantees the uniqueness of the message ID
 Message encryption uses XChaCha20 which produces a cryptographically
 malleable ciphertext. Thus we compute a MAC (message authentication
 code) as well. The MAC is placed in the MAC field of the cMix
-message. See our [cmix design doc](cmix.md) for details about the cMix
+message. See our [cmix design doc](cmixx.md) for details about the cMix
 message format.
 
 

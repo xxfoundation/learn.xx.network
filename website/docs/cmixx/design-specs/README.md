@@ -1,8 +1,6 @@
-# cMixx Design Specifications
+# Overview
 
 Technical design specification documentation for the xx network, a cMixx implementation.
-These documents are a work-in-progress and are continually evolving as we improve
-our software.
 
 
    - [Architectural Overview](architecture.md)

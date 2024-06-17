@@ -1,4 +1,4 @@
-# The xx network message pickup design
+# Message Pickup
 
 Benjamin Wenger  
 Richard T. Carback III  

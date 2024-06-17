@@ -1,5 +1,5 @@
 
-# Elixxir Mixnet PKI
+# cMixx Mixnet PKI
 
 Benjamin Wenger  
 Richard T. Carback III  

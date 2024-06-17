@@ -1,5 +1,5 @@
 
-# Elixxir mix network wire protocol
+# Wire Protocol
 
 Richard T. Carback III  
 David Stainton  
