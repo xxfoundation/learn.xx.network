@@ -17,7 +17,7 @@ Some use cases for integrating the API into your applications include (but are n
 
 - Banking applications
 - Voting applications, such as [Votexx](https://votexx.org/)
-- Secure messaging apps for private communication, such as [xx messenger](https://xx.network/messenger/)
+- Secure messaging apps for private communication, such as [xx messenger](../../dapps/xxm)
 
 The xxDK supports golang versions 1.17 or newer. You can find the most recent version on [Gitlab](https://git.xx.network/elixxir/client). 
 
