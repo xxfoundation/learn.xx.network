@@ -82,11 +82,12 @@ hoped that this glossary will help you understand the pseudo code.
 * Encrypt(key, payload): Encrypt and then MAC:  
   MAC(key, E(key, payload))  
 
-* Decrypt(key, payload): MAC then Decrypt:  
+* Decrypt(key, payload): MAC then Decrypt:
+```
   if MAC(key, payload) { // If MAC is valid...  
 	  D(key, payload)  
   }  
-
+```
 ### High level Auth protocol description
 
 ![handshake ladder diagram](@site/static/img/auth_protocol.png)
@@ -386,11 +387,12 @@ makes use of a stream cipher and MAC:
 * Encrypt(key, payload): Encrypt and then MAC:  
   MAC(key, E(key, payload))  
 
-* Decrypt(key, payload): MAC then Decrypt:  
+* Decrypt(key, payload): MAC then Decrypt:
+```  
   if MAC(key, payload) { // If MAC is valid...  
 	  D(key, payload)  
   }  
-
+```
 In the future we'd like to replace this with an AEAD. The Encrypt
 also sets the message fingerprint field of the cMix message. Please
 see our [cMix design document](cmix.md) for more detailed information
