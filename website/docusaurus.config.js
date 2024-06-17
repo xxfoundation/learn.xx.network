@@ -138,8 +138,8 @@ const config = {
                 to: '/blog',
               },*/
               {
-                label: 'Handbook Source Code',
-                href: 'https://git.xx.network/xx_network/node-handbook',
+                label: 'xx_network/docs Repository',
+                href: 'https://git.xx.network/xx_network/docs',
               },
               {
                 label: 'cMixx Developer Docs',
