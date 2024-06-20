@@ -43,17 +43,21 @@ You can add an existing account by clicking the `RECOVERY PHRASE` button. You wi
 If you have exported an account from another wallet, such as the [Web Wallet](https://wallet.xx.network/#/accounts), you can import the account via a `.json` file by clicking the `IMPORT KEYFILE (JSON)` button.
 
 First click the `UPLOAD FILE` button.
+
 ![](@site/static/img/simple-staking/connect-import.png)
 ***
 Next, you will be presented with a file selection window of your OS. Browse to the directory the `.json` file is located and select it.
+
 ![](@site/static/img/simple-staking/connect-import-select-json.png)
 ***
 You will see a notification it has found an account. Enter the password that was set when the account was exported and click `IMPORT`.
+
 ![](@site/static/img/simple-staking/connect-import-found.png)
 ***
 ## Add More Wallets
 
 You can manage the staking preferences of multiple accounts, just click the `ADD MORE WALLETS` link and select how to add additional accounts.
+
 ![](@site/static/img/simple-staking/connect-add-more-wallets.png)
 ***
 
@@ -94,6 +98,7 @@ Enter the password of the account and click the `CONFIRM PASSWORD` button.
 ![](@site/static/img/simple-staking/nominate-confirm-password.png)
 ***
 Click the `SUBMIT` button.
+
 ![](@site/static/img/simple-staking/nominate-submit.png)
 ***
 Wait while the transaction is signed and submitted to the blockchain.
@@ -113,6 +118,7 @@ Select the `CHANGE VALIDATORS` radio button and click the `NEXT` button.
 ![](@site/static/img/simple-staking/staking-options-change-01.png)
 ***
 Click the `NEXT` button.
+
 ![](@site/static/img/simple-staking/staking-options-change-02.png)
 ***
 Wait a few seconds while the app selects validators for you.
@@ -125,6 +131,7 @@ Enter the password of the account and click the `CONFIRM PASSWORD` button.
 ![](@site/static/img/simple-staking/nominate-confirm-password.png)
 ***
 Click the `SUBMIT` button.
+
 ![](@site/static/img/simple-staking/nominate-submit.png)
 ***
 Wait while the transaction is signed and submitted to the blockchain.
@@ -150,6 +157,7 @@ Enter the password of the account and click the `CONFIRM PASSWORD` button.
 ![](@site/static/img/simple-staking/unstake-amount-confirm.png)
 ***
 Click the `SUBMIT` button.
+
 ![](@site/static/img/simple-staking/unstake-submit.png)
 ***
 Wait while the transaction is signed and submitted to the blockchain.
@@ -167,6 +175,7 @@ Every 24 hours an era ends. At which time the earned rewards are paid out and be
 
 To check on the status of coins available to be redeemed one must [connect an account](#connect-wallet).
 Once your wallet or wallets are found, click the `NEXT` button.
+
 ![](@site/static/img/simple-staking/connect-wallet-found.png)
 ***
 Select the wallet you want to manage and click the `NEXT` button.
