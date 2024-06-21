@@ -70,6 +70,7 @@ Once your wallet or wallets are found, click the `NEXT` button.
 ## Select Wallet
 
 Select the wallet you want to manage.
+
 ![](https://docs-assets.sfo3.cdn.digitaloceanspaces.com/simple-staking/select.png)
 ***
 
