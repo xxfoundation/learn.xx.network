@@ -1,4 +1,4 @@
-# Validator Selection Stratigies
+# Validator Selection Strategies
 
 To choose the validators in the xx network, you will first need to
 follow [Nominating Validators](nominate.md) page.
@@ -6,7 +6,7 @@ follow [Nominating Validators](nominate.md) page.
 Once you know all the steps to nominate, you can follow this article.
 
 This article can help you to save a lot of XX coins. Some people
-nominate "boot node" who not even run cmix and give almost no reward
+nominate "boot node" who not even run cMixx and give almost no reward
 with more than 1M xx coins staked. Boot nodes share less than 40xx
 instead of about 250xx per era. Cumulative lost for these nominators
 since November 2021 is more than 10k XX whatever their stake due to huge
@@ -34,7 +34,7 @@ too many nominators due to the limit of 256 per validator / blocks
 nominations icon means that this validator refuses to be nominated / the
 slashed icon is for people who have more than one node or a
 configuration error or not enough time before switching to another
-gateway or cmix on another computer so check these validators carefully
+gateway or cMixx on another computer so check these validators carefully
 before choosing them)
 
 For the nominator column (in the middle of this graph): the first number
