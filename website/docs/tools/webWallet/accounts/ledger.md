@@ -48,7 +48,7 @@ at the bottom of the Github
 ## Account Generation
 
 xx Network wallets can be created using the novel
-Sleeve Wallet Generation tool wich is available on the [Sleeve](https://sleeve.xx.network/) website and the [Web Wallet](https://wallet.xx.network/#/accounts/generate).
+Sleeve Wallet Generation tool which is available on the [Sleeve](https://sleeve.xx.network/) website and the [Web Wallet](https://wallet.xx.network/#/accounts/generate).
 
 Sleeve allows a quantum-secure wallet to be embedded into the creation
 of a standard non quantum-secure wallet. The quantum-secure wallet will be used in the future, once xx Network
@@ -60,7 +60,7 @@ respective quantum-secure wallet.
 
 Even after adoption of quantum-secure cryptography, xx Network will
 continue to support non quantum-secure wallets. This means that creating a wallet using Sleeve is recommended, but not
-mandatory. If you decide to use Sleeve to create your xx Netqork wallet, you won't be
+mandatory. If you decide to use Sleeve to create your xx Network wallet, you won't be
 generating your account directly on the Ledger device.
 
 Instead, you should use our offline wallet generation tool to create

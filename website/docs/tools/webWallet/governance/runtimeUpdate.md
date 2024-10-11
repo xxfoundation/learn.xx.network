@@ -102,7 +102,7 @@ Steps:
 1.  In the wallet go to the
     [Democracy/Dispatch](https://wallet.xx.network/#/democracy/dispatch)
 2.  Click the “Image” button
-3.  Select ”system” and “setCode” from the dropdown menus and click on
+3.  Select ”system” and “setCode” from the drop-down menus and click on
     the “file upload” toggle![](@site/static/img/Screen_Shot_2022-04-26_at_2.19.45_PM.png)
 4.  Click on the code field (where it says “click to select …”) which
     opens your OS file explorer. Find the runtime file containing the

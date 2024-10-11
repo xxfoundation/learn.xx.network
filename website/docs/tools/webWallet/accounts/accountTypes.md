@@ -18,6 +18,12 @@ These are accounts that have proxies: other accounts that can issue transactions
 
 ## Hardware
 
+TODO
+
 ## Extension
 
+TODO
+
 ## Via QR
+
+TODO

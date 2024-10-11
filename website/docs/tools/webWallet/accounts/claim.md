@@ -36,7 +36,7 @@ Spreadsheet](https://docs.google.com/spreadsheets/d/1xBeCP5awzGDACiKsOUUjHMwJpNQ
     ![](@site/static/img/Confirm_Ethereum_Address_to_Claim_Tokens.png)
 10. A fourth box labeled *Sign with your metamask extension the
     following payload* will contain an agreement that you must read
-    through and agree to. Once you have done so, cliock the *Confirm
+    through and agree to. Once you have done so, click the *Confirm
     Payload* button.
     :::tip
     Read the agreement in full. You can download a PDF of the agreement using the link provided.

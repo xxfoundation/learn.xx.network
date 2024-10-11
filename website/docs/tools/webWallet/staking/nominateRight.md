@@ -1,6 +1,7 @@
-To choose the right validators in the xx network, you will first need to
-follow [How To Nominate](https://xxnetwork.wiki/How_to_Nominate) wiki
-article.
+# Validator Selection Stratigies
+
+To choose the validators in the xx network, you will first need to
+follow [Nominating Validators](nominate.md) page.
 
 Once you know all the steps to nominate, you can follow this article.
 

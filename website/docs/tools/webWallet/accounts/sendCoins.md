@@ -35,7 +35,7 @@ have the address for.
     
     b.  Select the wallet to send coins to.
     
-    c.  Select the number of coins to send. Use the dropdown on the
+    c.  Select the number of coins to send. Use the drop-down on the
         right to select the denomination.
     
     d.  The number of coins in your wallet cannot drop below the
