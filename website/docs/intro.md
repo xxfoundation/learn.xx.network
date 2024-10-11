@@ -29,5 +29,6 @@ If you are unfamiliar with the xx network, might we suggest you start with ...
 
 
 :::info How to Contribute
-xx network is a decentralized and open-source project, and we have plans to allow others to submit changes, additions, and corrections via GitLab or GitHub. Please check back again later if you wish to contribute!
+xx network is a decentralized and open-source project and we welcome contributions to the project.
+If you wish to contribute to the code please [request access](https://git.xx.network/users/sign_in?redirect_to_referer=yes).
 :::
