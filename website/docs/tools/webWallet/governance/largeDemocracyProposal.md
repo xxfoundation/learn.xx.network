@@ -9,7 +9,7 @@ geographic multipliers to be all 1.
 
 ## Generate the preimage
 
-The preimage of the proposal can be generated programatically using for
+The preimage of the proposal can be generated programmatically using for
 example python or js.
 
 An example script for setting all geographic multipliers to 1 is
@@ -72,7 +72,7 @@ However, in the case of this example, the call argument is large, which
 makes it very hard to verify visually.
 ![](@site/static/img/Screen_Shot_2022-05-17_at_1.10.59_PM.png)
 
-This way, it's better to programatically verify the proposal, and what
+This way, it's better to programmatically verify the proposal, and what
 it actually changes.
 
 An example script for verifying the cmix variables proposal is available

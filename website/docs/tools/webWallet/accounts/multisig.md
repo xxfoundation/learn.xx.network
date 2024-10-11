@@ -25,7 +25,7 @@ authorize a transaction. If you not do that and specify all account with
 the threshold number you need all accounts for authorize anything if you
 lost one account your multisig account is lost forever.
 
-If you dont do this and specify all accounts on the threshold number you
+If you don't do this and specify all accounts on the threshold number you
 need all accounts for authorize anything if you lost one single account
 your multisig account is lost forever.
 
@@ -41,7 +41,7 @@ threshold number here 2 (threshold) of 3 wallets (selected signatories).
 ## Export
 
 Multisig is a special account and xx wallet not execute a direct
-download like other account of the .json file. You have two possibilites
+download like other account of the .json file. You have two possibilities
 to get your multisig account from wallet.xx.network :
 
 1.  Import all accounts and click again on "Multisig" button to recreate
@@ -94,6 +94,6 @@ For the final approval your have also two choices :
 ![](@site/static/img/MultisigApprovalConfirmationFINAL.png)
 2. You haven't kept "multisig call data" and you have to do exactly the
 same transaction with the same parameters. "Multisig message with call
-(for final apporval) is triggered by itself when your reach the
+(for final approval) is triggered by itself when your reach the
 threshold number of signatures.
 ![](@site/static/img/ValidatorFINAL.png)

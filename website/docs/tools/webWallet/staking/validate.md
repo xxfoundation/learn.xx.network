@@ -1,3 +1,0 @@
-# Validating
-
-To do.

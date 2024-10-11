@@ -15,7 +15,7 @@ To add your account to the [Web Wallet](https://wallet.xx.network/), follow the 
 3.  The first page of the *add an account via seed* window will show up.
     ![](@site/static/img/Add_an_Account_Via_Seed.png)
     a.  Enter the *standard phrase*, also known as the *non-quantum
-        mnemonic phrase*. Each word in the phrase must be seperated by a single space. 
+        mnemonic phrase*. Each word in the phrase must be separated by a single space. 
         Remove all line breaks and double and trailing spaces.
 
     b.  Then check the *I have saved my mnemonic seed safely* checkbox.
