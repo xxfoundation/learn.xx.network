@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'xx Network Docs',
-  tagline: 'xx Network node installation instructions.',
+  tagline: 'xx Network documentation.',
   favicon: 'img/icon.png',
 
   // Set the production url of your site here
@@ -25,6 +25,32 @@ const config = {
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
+
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en'],
+  },
+
+  plugins: [[require.resolve("@cmfcmf/docusaurus-search-local"), 
+    {
+      indexDocs: true,
+      indexDocSidebarParentCategories: 2,
+      indexBlog: false,
+      indexPages: true,
+      language: "en",
+      maxSearchResults: 12,
+      lunr: {
+        tokenizerSeparator: /[\s\-]+/,
+        b: 0.75,
+        k1: 1.2,
+        titleBoost: 4,
+        contentBoost: 1,
+        tagsBoost: 3,
+        parentCategoriesBoost: 2
+      }
+    },],
+    ],
+
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
