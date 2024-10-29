@@ -1,3 +1,8 @@
+---
+title: Claiming Tokens
+keywords: [web wallet, claim, tokens, contacts]
+---
+
 # Claiming Tokens
 
 Check out the [Genesis Block

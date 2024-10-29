@@ -1,10 +1,13 @@
 ---
 sidebar_position: 2
+title: RPC Endpoints
+keywords: [RPC, endpoints, blockchain, web wallet]
 ---
 
 # RPC Endpoints
 
 ## What is an Endpoint?
+
 An endpoint is a connection to a Remote Procedure Calls (RPC) Node which facilitates communication within a decentralized network. The "Wallet > RPC Endpoint > RPC Node" relationship is similar to a "Web Browser > HTTP Port > Website Server" relationship. A wallet allows you to interact with a blockchain much like a browser allows you to interact with a website.
 
 ## Public RPC Endpoints

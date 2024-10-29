@@ -1,5 +1,7 @@
 ---
 sidebar_position: 2
+title: Governance
+keywords: [governance, referendum, council, technical committee, proposal, treasury, staking, custody, xxchain]
 ---
 
 # Governance

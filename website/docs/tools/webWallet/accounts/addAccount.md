@@ -1,6 +1,9 @@
 ---
 sidebar_position: 5
+title: Adding Accounts to the Web Wallet
+keywords: [web wallet, add account, derivation path, secure password]
 ---
+
 # Adding Accounts to the Web Wallet
 
 ## Adding a Basic Account

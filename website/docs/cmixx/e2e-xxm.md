@@ -1,3 +1,9 @@
+---
+title: End-to-End Encrypted Messaging in xx Messenger
+keywords: [end-to-end encryption, E2EE, xx Messenger, post-quantum cryptography, SIDH, Diffie-Hellman, secure messaging, cryptographic primitives]
+---
+
+
 # End-to-End Encrypted Messaging in xx Messenger
 
 [End-to-End Encrypted

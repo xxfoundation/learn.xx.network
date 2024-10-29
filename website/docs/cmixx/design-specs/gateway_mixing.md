@@ -1,3 +1,9 @@
+---
+title: Gateway Mixing
+description: Gateway Mixing
+keywords: [gateway, mixing, traffic analysis, cryptographic protocols, mixnet, entropy, decoy traffic, latency]
+---
+
 # Gateway Mixing
 
 Benjamin Wenger  

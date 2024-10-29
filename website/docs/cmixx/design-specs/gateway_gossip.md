@@ -1,8 +1,14 @@
+---
+title: Gateway Gossip Protocol
+description: Gateway Gossip Protocol
+keywords: [Gateway, Gossip, Protocol, Bloom Filters, Cryptographic Verification, Gossip Messages, RPC, xx_network]
+---
+
 # Gateway Gossip Protocol
 
 Benjamin Wenger  
 Richard T. Carback III  
-David Stainton  
+David Stainton
 
 ## Gateway Gossip Protocol Overview
 
@@ -45,7 +51,6 @@ func gossipVerify(message *GossipMsg) error {
 
 The `GetHost` function above retrieves the remote host's public key
 given it's network ID.
-
 
 [xx_network:comms/gossip/gossip.proto](https://git.xx.network/xx_network/comms/-/blob/ba23bfbdce748e0dad29d27556e31a313c5328ba/gossip/gossip.proto)
 Defines a service and structures for the gossip protocol used by gateways:

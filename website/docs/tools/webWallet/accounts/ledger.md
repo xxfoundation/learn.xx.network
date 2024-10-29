@@ -1,3 +1,7 @@
+---
+title: Ledger
+keywords: [web wallet, ledger, xx network, xx chain, chain, hardware, wallet]
+---
 
 # Ledger
 

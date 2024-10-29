@@ -1,5 +1,7 @@
 ---
 sidebar_position: 1
+title: Overview
+keywords: [Substrate, BFT, NPoS, validators, governance, xxchain]
 ---
 
 # Overview

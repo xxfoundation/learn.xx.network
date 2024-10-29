@@ -1,5 +1,7 @@
 ---
 sidebar_position: 4
+title: Simple Staking
+keywords: [xx network, staking, Simple Staking, validators, connect wallet, unstake, redeem, mnemonic]
 ---
 # Simple Staking
 

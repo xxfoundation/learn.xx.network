@@ -1,3 +1,8 @@
+---
+title: Proxxy
+keywords: [Proxxy, xx Network, web3 privacy, blockchain, MetaMask, RPC, providers, cMixx, metadata protection, mixnet]
+---
+
 # Proxxy
 
 Proxxy is a technology that leverages the xx Network's

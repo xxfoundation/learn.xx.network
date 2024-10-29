@@ -1,5 +1,6 @@
 ---
 title: Storage
+keywords: [xxchain, blockchain, chain, storage, pallet, xx network]
 ---
 
 The following sections contain Storage methods are part of the default Substrate runtime. On the api, these are exposed via `api.query.<module>.<method>`. 

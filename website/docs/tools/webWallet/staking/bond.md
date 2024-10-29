@@ -1,3 +1,8 @@
+---
+title: Bonding xx Coins
+keywords: [bonding, staking, nomination, xx network, xx chain]
+---
+
 # Bonding xx Coins
 
 How many xx coins you bond is up to you. The action of bonding coins is sometimes referred to as locking but should not be confused for staking. It is possible to bond coins without staking them. This can be done by first creating a stash without the intention to nominate or validate.

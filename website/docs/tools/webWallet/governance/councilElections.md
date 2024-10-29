@@ -1,4 +1,10 @@
+---
+title: Council Elections
+keywords: [democracy, governance, council, elections, xx network]
+---
+
 # Council Elections
+
 The [Council](../../../xxchain/governance.md#council) is an on-chain
 representative 13 member body designed to represent passive stakeholders
 within the xx network.

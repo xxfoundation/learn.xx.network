@@ -1,3 +1,8 @@
+---
+title: Large Democracy Proposal
+keywords: [democracy, proposal, governance, referendum, xx network]
+---
+
 # Large Democracy Proposal
 
 This wiki page describes how to submit a Democracy Proposal for a pallet

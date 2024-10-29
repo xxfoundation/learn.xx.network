@@ -1,3 +1,9 @@
+---
+title: ID Collisions and Notifications
+keywords: [ID collisions, notifications, user IDs, ephemeral IDs, xx Network, cryptographic primitives, privacy, tagging attack]
+---
+
+
 # ID Collisions and Notifications
 
 Typically, user IDs are unique identifiers and have the property of

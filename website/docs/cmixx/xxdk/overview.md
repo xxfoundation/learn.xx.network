@@ -1,9 +1,10 @@
 ---
 sidebar_position: 1
+title: Overview
+keywords: [xxDK, cMix, privacy, encryption, metadata protection, blockchain, secure messaging, API]
 ---
+
 # Overview
-
-
 
 The Client API (xxDK) is the client-side software for communicating with the cMix network, a privacy-protecting layer within the larger [xx network](https://xx.network/) blockchain ecosystem. cMix builds on current data protection mechanisms by extending security beyond just content to include metadata — the what, when, where, and how of user activity.
 

@@ -1,5 +1,6 @@
 ---
 title: Errors
+keywords: [xxchain, blockchain, chain, errors, xx network]
 ---
 
 This page lists the errors that can be encountered in the different modules. 

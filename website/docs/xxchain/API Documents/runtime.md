@@ -1,5 +1,6 @@
 ---
 title: Runtime
+keywords: [xxchain, blockchain, chain, runtime, pallet, xx network]
 ---
 
 The following section contains known runtime calls that may be available on specific runtimes (depending on configuration and available pallets). These call directly into the WASM runtime for queries and operations.

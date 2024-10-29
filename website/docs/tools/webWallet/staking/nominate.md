@@ -1,3 +1,8 @@
+---
+title: Nominating Validators
+keywords: [nominate, nomination, staking, xx network, xx chain, validators]
+---
+
 # Nominating Validators
 
 To nominate a Node in the xx network, you will be required to first bond

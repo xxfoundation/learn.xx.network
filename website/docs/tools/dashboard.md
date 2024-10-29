@@ -1,5 +1,7 @@
 ---
 sidebar_position: 2
+title: cMixx Dashboard
+keywords: [xx network, tools, cMix, cMixx, Dashboard, mTPS, Latency, Nodes, Throughput, Validators, Node Status]
 ---
 
 # cMixx Dashboard

@@ -1,5 +1,7 @@
 ---
 sidebar_position: 3
+title: Account Types
+keywords: [xx network, blockchain, cryptocurrency, digital wallet, multisig, proxied accounts, hardware wallet, QR code]
 ---
 
 # Account Types

@@ -1,4 +1,10 @@
+---
+title: Send Coins
+keywords: [pay, send, coins, wallet, xx coin, xx network, wallet]
+---
+
 # Send Coins
+
 Once you have set up your account, you can send coins to any wallet you
 have the address for.
 

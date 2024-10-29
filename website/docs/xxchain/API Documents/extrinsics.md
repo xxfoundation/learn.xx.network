@@ -1,5 +1,6 @@
 ---
 title: Extrinsics
+keywords: [xxchain, blockchain, chain, Extrinsics, xx network]
 ---
 
 The following sections contain Extrinsics methods are part of the default Substrate runtime. On the api, these are exposed via `api.tx.<module>.<method>`. 

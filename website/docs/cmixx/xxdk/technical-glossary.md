@@ -1,5 +1,7 @@
 ---
 sidebar_position: 6
+title: Technical Glossary
+keywords: [glossary, cMix, client, server, network, encryption, user discovery]
 ---
 
 # Technical Glossary

@@ -1,3 +1,8 @@
+---
+title: Architectural overview
+description: Architectural overview 
+keywords: [Elixxir, Mixnet, Metadata, Protection, Traffic, Analysis, Cryptography]
+---
 
 # Architectural Overview
 

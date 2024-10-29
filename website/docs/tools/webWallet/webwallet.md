@@ -1,5 +1,7 @@
 ---
 sidebar_position: 1
+title: Introduction
+keywords: [xx network, wallet, web wallet, app]
 ---
 
 # Introduction

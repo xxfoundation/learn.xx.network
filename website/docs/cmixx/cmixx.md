@@ -1,5 +1,7 @@
 ---
 sidebar_position: 1
+title: Overview
+keywords: [cMixx, Node, Gateway, Scheduler, blockchain, NDF, RoundInfo, xx Chain]
 ---
 
 # Overview

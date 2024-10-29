@@ -1,3 +1,8 @@
+---
+title: User Discovery
+keywords: [User Discovery, xx Network, xx Messenger, cryptographic identity, secure communications, user registration, data privacy, end-to-end encryption]
+---
+
 # User Discovery
 
 User Discovery (UD) is an xx Network service that helps users connect

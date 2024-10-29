@@ -1,3 +1,9 @@
+---
+title: Multicast Channel Design
+description: Multicast Channel Design
+keywords: [multicast, channel, design, encryption, RSA, ECC, cryptographic, protocol]
+---
+
 # Multicast Channel Design
 
 Benjamin Wenger  

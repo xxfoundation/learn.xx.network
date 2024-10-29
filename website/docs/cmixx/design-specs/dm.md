@@ -1,3 +1,9 @@
+---
+title: Direct Messaging Module
+description: Direct Messaging Module
+keywords: [Direct Messaging, DM, Noise Protocol, ECDSA, X25519, Encryption, Security, Multicast Channels]
+---
+
 # Direct Messaging Module
 
 Richard T. Carback III
@@ -159,7 +165,7 @@ cMixPayload = ephemeralPublicKey | ciphertext
 ```
 
 This `cMixPayload` is what is sent over cMix to the recipient ID,
-[derived](./dm.md#One-way-Non-Interactive-Handshake) from the
+[derived](#one-way-non-interactive-handshake) from the
 `ReceiverStaticPublicKey` and `idToken`. To Decrypt, the above is
 reversed by separating the ephemeral public key from the ciphertext,
 decrypting the ciphertext, reading the sender static public key,
