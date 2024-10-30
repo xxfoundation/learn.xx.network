@@ -30,7 +30,7 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
-
+/*
   plugins: [[require.resolve("@cmfcmf/docusaurus-search-local"), 
     {
       indexDocs: true,
@@ -49,16 +49,8 @@ const config = {
         parentCategoriesBoost: 2
       }
     },],
-    ],
+    ],*/
 
-
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
-  i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
-  },
 
   presets: [
     [
