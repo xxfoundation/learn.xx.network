@@ -30,8 +30,9 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
-/*
-  plugins: [[require.resolve("@cmfcmf/docusaurus-search-local"), 
+
+  plugins: [
+    [require.resolve("@cmfcmf/docusaurus-search-local"), 
     {
       indexDocs: true,
       indexDocSidebarParentCategories: 2,
@@ -47,9 +48,9 @@ const config = {
         contentBoost: 1,
         tagsBoost: 3,
         parentCategoriesBoost: 2
-      }
+      },
     },],
-    ],*/
+    ],
 
 
   presets: [
