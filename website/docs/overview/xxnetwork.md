@@ -1,5 +1,7 @@
 ---
 sidebar_position: 1
+title: What is xxNetwork
+keywords: [xxNetwork, blockchain, decentralized, pqe, e2ee, mixnet, quantum-ready, cMixx, David Chaum, metadata privacy, encryption]
 ---
 
 # What is xx network?

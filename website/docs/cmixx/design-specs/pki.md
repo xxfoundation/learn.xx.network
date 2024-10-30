@@ -1,3 +1,8 @@
+---
+title: cMixx Mixnet PKI
+description: cMixx Mixnet PKI
+keywords: [cMixx, Mixnet, PKI, Elixxir, blockchain, security, privacy, consensus]
+---
 
 # cMixx Mixnet PKI
 

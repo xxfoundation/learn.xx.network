@@ -1,3 +1,9 @@
+---
+title: cMixx Design Specification
+description: cMixx Design Specification
+keywords: [cMix, ElGamal, encryption, anonymous communication, cryptographic protocols, mix networks, message structure, security]
+---
+
 # cMixx Design Specification
 
 Benjamin Wenger  
@@ -235,7 +241,7 @@ That is, in either case the `elgamal_encrypt` function returns a
 the encrypted key.
 
 In the above notation the `p` is meant to be our prime order cyclic
-group as defined above in the [Ciphersuite](#Ciphersuite) section;
+group as defined above in the [Ciphersuite](#ciphersuite) section;
 from now on the modulo will be implied and not explicitly written in
 each expression and equation. In this ElGamal encryption example the
 we generate a new key pair:

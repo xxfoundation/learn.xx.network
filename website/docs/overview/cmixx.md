@@ -1,5 +1,7 @@
 ---
 sidebar_position: 3
+title: What is cMixx?
+keywords: [encryption, privacy, metadata, security, cMixx, anonymity, data protection, whitepaper]
 ---
 
 # What is cMixx?

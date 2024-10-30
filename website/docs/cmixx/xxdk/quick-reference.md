@@ -1,5 +1,7 @@
 ---
 sidebar_position: 3
+title: API Quick Reference
+keywords: [API, Quick Reference, xxDK, Client API, Go, Functions, Interfaces, Documentation]
 ---
 
 # API Quick Reference

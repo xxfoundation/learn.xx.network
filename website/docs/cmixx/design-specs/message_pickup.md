@@ -1,3 +1,9 @@
+---
+title: Message Pickup
+description: Message Pickup
+keywords: [message pickup, XX Network, mix network, gateways, message transport, cryptographic functions, ephemeral recipient IDs, message identification]
+---
+
 # Message Pickup
 
 Benjamin Wenger  

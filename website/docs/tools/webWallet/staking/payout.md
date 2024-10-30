@@ -1,3 +1,8 @@
+---
+title: Payouts
+keywords: [payout, staking, xx network, xx chain, validators, rewards]
+---
+
 # Payouts
 
 ## Claim Rewards

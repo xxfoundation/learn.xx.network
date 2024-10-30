@@ -1,4 +1,10 @@
+---
+title: Runtime Update Tutorial
+keywords: [runtime, update, xx network]
+---
+
 # Runtime Update Tutorial
+
 This page describes how to perform a runtime update (code change)
 in the xx Network blockchain.
 

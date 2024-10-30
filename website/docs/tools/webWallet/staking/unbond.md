@@ -1,3 +1,8 @@
+---
+title: Unbonding xx Coins
+keywords: [unbond, unbind, unbonding, unstaking, destaking, xx network, xx chain, validators]
+---
+
 # Unbonding xx Coins
 
 To the right of the stash, expand the 3 dot menu and click "Unbond funds". 

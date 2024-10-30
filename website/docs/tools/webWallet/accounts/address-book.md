@@ -1,5 +1,7 @@
 ---
 sidebar_position: 5
+title: Address Book
+keywords: [web wallet, address book, contacts]
 ---
 
 # Address book

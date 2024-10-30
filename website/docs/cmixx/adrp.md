@@ -1,3 +1,8 @@
+---
+title: Anonymous Data Retrieval Protocol
+keywords: [anonymous, data retrieval, protocol, ADRP, cMixx, cryptography, privacy, xx Network]
+---
+
 # Anonymous Data Retrieval Protocol
 
 The Anonymous Data Retrieval Protocol (ADRP) allows users to request

@@ -1,5 +1,6 @@
 ---
 title: JSON-RPC
+keywords: [xxchain, blockchain, chain, JSON-RPC, json, rpc, xx network]
 ---
 
 The following sections contain known RPC methods that may be available on specific nodes (depending on configuration and available pallets) and allow you to interact with the actual node, query, and submit.
@@ -22,9 +23,9 @@ The following sections contain known RPC methods that may be available on specif
 
 - **[eth](#eth)**
 
-- **[eth/net](#eth/net)**
+- **[eth/net](#ethnet)**
 
-- **[eth/web3](#eth/web3)**
+- **[eth/web3](#ethweb3)**
 
 - **[grandpa](#grandpa)**
 

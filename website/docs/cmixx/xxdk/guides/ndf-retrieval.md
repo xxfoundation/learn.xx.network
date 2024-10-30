@@ -1,3 +1,8 @@
+---
+title: NDF Retrieval
+keywords: [NDF, network definition file, CLI, xxDK, gateway, SSL certificate, trust model, xx network]
+---
+
 # NDF Retrieval
 
 This guide covers how to fetch the [network definition file](../technical-glossary#network-definition-file-ndf), or NDF, either through the command line (CLI) or using the Client API (xxDK).

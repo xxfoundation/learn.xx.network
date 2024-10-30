@@ -3,7 +3,7 @@ sidebar_position: 1
 slug: /
 title: xx network Documentation
 description: This site aims to help those interested in xx network.
-keywords: [xx network, cmixx, xxchain, documentation]
+keywords: [xx network, cmixx, xxchain, documentation, blockchain, decentralized, mixnet, open-source]
 ---
 
 # xx network Documentation

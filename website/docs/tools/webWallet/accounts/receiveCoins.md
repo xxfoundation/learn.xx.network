@@ -1,4 +1,10 @@
+---
+title: Receive Coins
+keywords: [receive, accept, coins, wallet, paid]
+---
+
 # Receive Coins
+
 You can receive coins from someone by sending your wallet address to
 that person.
 

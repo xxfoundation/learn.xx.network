@@ -1,3 +1,8 @@
+---
+title: Multisig Accounts
+keywords: [multisig, wallet, security, xx network, xx chain, signature, sign]
+---
+
 # Multisig Accounts
 
 You can use a multisig account to add extra security layers from a

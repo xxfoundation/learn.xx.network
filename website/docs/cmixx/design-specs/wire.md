@@ -1,3 +1,8 @@
+---
+title: Wire Protocol
+description: Wire Protocol
+keywords: [Elixxir, wire protocol, TLS, gRPC, NDF, cMix, network security, cryptography]
+---
 
 # Wire Protocol
 

@@ -1,3 +1,8 @@
+---
+title: Validator Selection Strategies
+keywords: [nominate, nomination, staking, xx network, xx chain, validators, scam, due diligence, check, reputation]
+---
+
 # Validator Selection Strategies
 
 To choose the validators in the xx network, you will first need to

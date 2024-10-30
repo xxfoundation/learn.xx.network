@@ -1,3 +1,8 @@
+---
+title: cMixx Network Threat Model
+description: cMixx Network Threat Model
+keywords: [cMixx, network, threat model, Elixxir, privacy, security, mixnet, anonymity]
+---
 
 # cMixx Network Threat Model
 

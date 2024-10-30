@@ -1,5 +1,7 @@
 ---
 sidebar_position: 3
+title: iOS SDK
+keywords: [iOS, SDK, Swift, Package Manager, Client Storage, Network Follower, E2E, Restlike API]
 ---
 
 # iOS SDK

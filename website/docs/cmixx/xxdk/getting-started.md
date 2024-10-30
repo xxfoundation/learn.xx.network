@@ -1,5 +1,7 @@
 ---
+title: Getting Started
 sidebar_position: 2
+keywords: [cMix, client-server, xxDK, Go, encryption, network, integration, messaging]
 ---
 
 # Getting Started

@@ -1,3 +1,8 @@
+---
+title: cMix Client Keystore
+keywords: [cMix, Client Keystore, encrypted storage, cryptographic keys, key-value storage, transmission keys, reception keys, E2E messaging]
+---
+
 # cMix Client Keystore
 
 The cMix Client Keystore is a directory-backed encrypted key-value storage which contains cryptographic keys and state data. It is implemented by wrapping the [EKV library](https://git.xx.network/elixxir/ekv).
