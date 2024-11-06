@@ -22,6 +22,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'xx network', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
+  scripts: [{src: 'https://pb.xx.network/js/script.js', async: true, defer: true, 'data-domain': 'learn.xx.network'}],
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
