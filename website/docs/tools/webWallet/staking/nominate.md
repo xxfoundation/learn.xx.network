@@ -118,7 +118,9 @@ the nodes that you want to nominate.
     the *nominators* column and take this into consideration when
     choosing nodes. A red icon labeled *Oversubscribed*
     ![](@site/static/img/Explorer_-_Oversubscribed_Icon.svg)
-    will appear next to all nodes that have more than 256 nominators.
+    will appear next to all nodes that have more than 256 nominators. Use 
+    the *with capacity* (formerly: *no at capacity*) toggle button to
+    display only nodes that are not oversubscribed.
 
     ![](@site/static/img/Nominator_Info.png)
 
