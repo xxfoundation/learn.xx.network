@@ -25,7 +25,7 @@ const config = {
   scripts: [{src: 'https://pb.xx.network/js/script.js', async: true, defer: true, 'data-domain': 'learn.xx.network'}],
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenMarkdownLinks: 'throw',
 
   i18n: {
     defaultLocale: 'en',
