@@ -6,7 +6,7 @@ keywords: [web wallet, generate, account]
 
 # Generate Account
 
-The MainNet wallet generator app walks you through the process of creating a quantum-ready wallet for use in the xx Network. It is important that you keep the wallet you generate private and secure, as you would any other cryptocurrency wallet.
+The xx network [wallet generator](https://wallet.xx.network/#/accounts/generate) walks you through the process of creating a quantum-ready wallet for use in the xx Network. It is important that you keep the wallet you generate private and secure, as you would any other cryptocurrency wallet.
 
 When you first load the page you will notice the green icon indicating the browser is connected to the internet. It is recommended you disconnect the browser from the internet while generating a wallet.
 ![](https://docs-assets.sfo3.cdn.digitaloceanspaces.com/webwallet/ww-gen-online.png)
