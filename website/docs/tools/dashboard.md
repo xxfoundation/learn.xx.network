@@ -35,7 +35,7 @@ The above link will bring you to cMix Dashboard Quick View.
   * not currently a validator - Represents a cMix node's associated xx Chain validator is not validating or was not elected in the current era.
 
 # [Rounds View](https://dashboard.xx.network/rounds)
-The above link will opens the cMix Dashboard Rounds View.
+The above link will open the cMix Dashboard Rounds View.
 
 * Round ID - Self explanatory.
 * Completion Time - Date and time (UTC) the round ended, whether SUCCESS or TIMEOUT.
@@ -107,4 +107,4 @@ The above link opens the cMix Dashboard Node View for the cMix node, xx west, as
   * Total Timed Out [^1] - Total number of rounds participated in which failed in the selected period.
 * Precomp Average Duration - Average duration of the Precomputation phase of all rounds participated in in the selected period.
 * Realtime Average Duration - Average duration of the Realtime phase of all rounds participated in in the selected period.
-* Last 100 Rounds - A list of the last 100 rounds the node has participated in and the result of the round. Or will display, "This node has not participated in any rounds in the last 48 hours..." if the node has been offline for more then 48 hours.
+* Last 100 Rounds - A list of the last 100 rounds the node has participated in and the result of the round. Or will display, "This node has not participated in any rounds in the last 48 hours..." if the node has been offline for more than 48 hours.

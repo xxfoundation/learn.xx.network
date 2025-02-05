@@ -31,7 +31,7 @@ On this page you will see the public address of the generated wallet. At this st
 ![](@site/static/img/sleeve-finish.png)
 
 ## Export JSON Account File
-To export the JSON file, enter stong password and press "EXPORT JSON ACCOUNT FILE" button. This file will be saved to local storage of the computer. The password you set here will be asked for if you import the account into the Web Wallet.
+To export the JSON file, enter a strong password and press "EXPORT JSON ACCOUNT FILE" button. This file will be saved to local storage of the computer. The password you set here will be asked for if you import the account into the Web Wallet.
 ![](@site/static/img/sleeve-export-json.png)
 
 [^1]: Quantum Mnemonic: derives the quantum-secure wallet, which is not currently used, but will be necessary in the future in order to rollover existing non quantum secure wallets into quantum secure wallets.
