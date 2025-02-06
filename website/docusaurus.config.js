@@ -65,7 +65,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://git.xx.network/xx_network/docs/-/blob/master/website/',
+            'https://git.xx.network/websites/learn.xx.network/-/blob/master/website/',
         },
         blog:false,
         /*blog: {
@@ -158,8 +158,8 @@ const config = {
                 to: '/blog',
               },*/
               {
-                label: 'xx_network/docs Repository',
-                href: 'https://git.xx.network/xx_network/docs',
+                label: 'Learn Website Repository',
+                href: 'https://git.xx.network/websites/learn.xx.network',
               },
               {
                 label: 'cMixx Developer Docs',
