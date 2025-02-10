@@ -265,7 +265,7 @@ it again. It should now work.
 [x64](https://nx38767.your-storageshare.de/s/wYsHnZZKZqMZXxW/download?path=%2F&files=Proxxy-linux-x64)
 or
 [arm64](https://nx38767.your-storageshare.de/s/wYsHnZZKZqMZXxW/download?path=%2F&files=Proxxy-linux-arm64)
-2.  Open the defualt file manager (Ex. Gnome/Files, KDE/Dolphin,
+2.  Open the default file manager (Ex. Gnome/Files, KDE/Dolphin,
 etc.).
 3.  Browse to the location of the file.
 4.  Right click the file and select "Properties".
