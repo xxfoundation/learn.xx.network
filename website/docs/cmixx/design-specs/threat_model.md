@@ -58,7 +58,7 @@ identity. Likewise messages must be padded to a fixed length.
 
 ## Anonymity Set
 
-A this time the Elixxir mix network does not try to hide which mix
+At this time the Elixxir mix network does not try to hide which mix
 cascade a given client is using for a given mix round. Clients
 directly connect to gateways nodes which relay messages to the mix
 cascade. These gateways are only connected to one mix cascade so it's
@@ -238,7 +238,7 @@ normal.
 
 Depending on the properties of the parallel cascade, this
 cascade may be faster than the current implementation because it is
-more parallelized.  Due to how the the final unwrapping phase (post
+more parallelized.  Due to how the final unwrapping phase (post
 permutation) is dependent on keys in both cascade phases, and how each
 node in the team add further keying material in the permutation phase,
 the ignoring of sub-cascades from the first pass would result in many
@@ -291,7 +291,7 @@ of recipients.
 Elixxir reduces the information leakage of intersection attacks
 by means of message ID collisions. Clients make use of
 deterministic message IDs as a lookup key for messages received
-over the mixnet. This results in many clients retreiving their
+over the mixnet. This results in many clients retrieving their
 messages via the same message ID. Thus the set intersections
 in the above attack would yield many more clients than
 the desired recipients for the target sender.
@@ -348,7 +348,7 @@ that the output message format is well formed.
 
 This attack doesn't apply to Elixxir because well formed output messages are
 indistinguishable from pseudo random noise. Therefore the adversary cannot
-confirm the presense of the tag. Likewise the tagging attack described in
+confirm the presence of the tag. Likewise the tagging attack described in
 "Attacks on cMix - Some Small Overlooked Details" is also prevented by valid
 messages being indistinguishable from invalid messages.
 
