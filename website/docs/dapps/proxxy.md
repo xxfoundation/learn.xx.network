@@ -184,7 +184,7 @@ Settings -> Security & Privacy and disable the following:
     
 ###  Windows Instructions.
 1.  Download the Proxxy file for Windows
-[here](https://nx38767.your-storageshare.de/s/wYsHnZZKZqMZXxW/download?path=%2F&files=Proxxy-win-x64.exe).
+[here](https://docs.xx.network/proxxy/Proxxy-win-x64.exe).
 2.  In the file browser, navigate to the folder where the
 application was downloaded to and double-click the file.
 ![](@site/static/img/Downloaded_Proxxy_Exe_file.png)
@@ -202,9 +202,9 @@ launch.
 
 ### macOS Instructions.
 1.  Download the binary for macOS and for your CPU architecture:
-[x64](https://nx38767.your-storageshare.de/s/wYsHnZZKZqMZXxW/download?path=%2F&files=Proxxy-mac-x64.zip)
+[x64](https://docs.xx.network/proxxy/Proxxy-mac-x64.zip)
 or
-[arm64](https://nx38767.your-storageshare.de/s/wYsHnZZKZqMZXxW/download?path=%2F&files=Proxxy-mac-arm64.zip),
+[arm64](https://docs.xx.network/proxxy/Proxxy-mac-arm64.zip),
 which you can check on the "About This Mac" page. The Intel
 version (x64) will work on Apple Silicon devices (arm64) as
 well.
@@ -262,9 +262,9 @@ black and not load. If this happens, close the app and open
 it again. It should now work.
 ### Linux instructions.
 1.  Download the file, according to your CPU architecture:
-[x64](https://nx38767.your-storageshare.de/s/wYsHnZZKZqMZXxW/download?path=%2F&files=Proxxy-linux-x64)
+[x64](https://docs.xx.network/proxxy/Proxxy-linux-x64)
 or
-[arm64](https://nx38767.your-storageshare.de/s/wYsHnZZKZqMZXxW/download?path=%2F&files=Proxxy-linux-arm64)
+[arm64](https://docs.xx.network/proxxy/Proxxy-linux-arm64)
 2.  Open the defualt file manager (Ex. Gnome/Files, KDE/Dolphin,
 etc.).
 3.  Browse to the location of the file.
