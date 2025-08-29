@@ -262,18 +262,19 @@ black and not load. If this happens, close the app and open
 it again. It should now work.
 ### Linux instructions.
 1.  Download the file, according to your CPU architecture:
-[x64](https://docs.xx.network/proxxy/Proxxy-linux-x64)
+[x64](https://docs.xx.network/proxxy/Proxxy-linux-x64.zip)
 or
-[arm64](https://docs.xx.network/proxxy/Proxxy-linux-arm64)
-2.  Open the defualt file manager (Ex. Gnome/Files, KDE/Dolphin,
+[arm64](https://docs.xx.network/proxxy/Proxxy-linux-arm64.zip)
+2.  Extract the binary.
+3.  Open the defualt file manager (Ex. Gnome/Files, KDE/Dolphin,
 etc.).
-3.  Browse to the location of the file.
-4.  Right click the file and select "Properties".
-5.  A window will appear, (Example of Gnome/Files shown below)
+4.  Browse to the location of the file.
+5.  Right click the file and select "Properties".
+6.  A window will appear, (Example of Gnome/Files shown below)
 select the "Permissions" tab, check the "Execute: Allow
 executing file as program" box and close the window.
 ![](@site/static/img/linux+x.png)
-6.  You can now launch the *Proxxy* application by
+7.  You can now launch the *Proxxy* application by
 double-clicking the file right from the file manager.
 
 3.  After the App launches, head back to the Proxxy
