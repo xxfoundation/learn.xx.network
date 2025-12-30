@@ -5,7 +5,10 @@ keywords: [web wallet, add account, derivation path, secure password]
 ---
 
 # Adding Accounts to the Web Wallet
-
+:::caution
+Local in-browser account storage is disabled by default on the Polkadot-JS UI. To add an account using the seed phrase, first navigate to `Settings` > `account options`, click on `allow local in-browser account storage` in the drop-down menu and then `Save`.
+![](@site/static/img/ww-allow-local-storage.png)
+:::
 ## Adding a Basic Account
 
 To add your account to the [Web Wallet](https://wallet.xx.network/), follow the instructions below.
